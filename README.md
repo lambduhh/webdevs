@@ -1,14 +1,13 @@
 # ljm.webdevs
 
-FIXME: description
 
 ## Installation
 
-Download from http://example.com/FIXME.
+N/A
 
 ## Usage
 
-FIXME: explanation
+FIXME: Creates a local server on 3000
 
 Run the project directly:
 
@@ -19,8 +18,7 @@ Run the project's tests (they'll fail until you edit them):
     $ clj -A:test:runner
 
 ## Options
-
-FIXME: listing of options this app accepts.
+N/A
 
 ## Examples
 
@@ -35,8 +33,6 @@ FIXME: listing of options this app accepts.
 ### Might be Useful
 
 ## License
-
-Copyright © 2019 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
