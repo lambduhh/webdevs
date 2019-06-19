@@ -1,5 +1,6 @@
 # ljm.webdevs
 
+You don't really need to READTHIS
 
 ## Installation
 
@@ -25,12 +26,7 @@ N/A
 ...
 
 ### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+N/A
 
 ## License
 
